@@ -31,7 +31,7 @@ public class Squashing3 {
     System.out.println(s5);
 
 
-    //change 1
+    //commit 4
   }
 
 }

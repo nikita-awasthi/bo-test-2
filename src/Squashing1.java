@@ -10,4 +10,6 @@ public class Squashing1 {
     return super.equals(obj);
   }
 
+  //commit 2
+
 }
