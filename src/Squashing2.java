@@ -26,6 +26,8 @@ public class Squashing2 {
         Objects.equals(string2, that.string2);
   }
 //modification in sq2.java
+
+  //modification in commit 3
   @Override
   public int hashCode() {
     return Objects.hash(string1, string2);
