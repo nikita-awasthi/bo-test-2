@@ -25,13 +25,8 @@ public class Squashing2 {
     return Objects.equals(string1, that.string1) &&
         Objects.equals(string2, that.string2);
   }
-//comment 1
-  //comment 2
 
-
-  //commit 3
-
-  //commit 4
+  //commit 3 in branch 01
   @Override
   public int hashCode() {
     return Objects.hash(string1, string2);
