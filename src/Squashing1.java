@@ -11,5 +11,5 @@ public class Squashing1 {
   }
 
   //commit 2
-
+//Review suggestion
 }
