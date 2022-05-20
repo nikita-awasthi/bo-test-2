@@ -31,7 +31,7 @@ public class Squashing3 {
     System.out.println(s5);
 
 
-    //commit 4
+    //review suggestion 5
   }
 
 }
